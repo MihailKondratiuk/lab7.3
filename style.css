@@ -1,0 +1,40 @@
+#game1{
+  background:#0000FF;
+}
+#game2{
+  background:#FF0000;
+}
+#game3{
+  background:#FFFF00;
+}
+#game4{
+  background:#00FF00;
+}
+#game1:clicked{
+  background:#4169E1;
+}
+#game2:clicked{
+  background:#B22222;
+}
+#game3:clicked{
+  background:#FFD700;
+}
+#game4:clicked{
+  background:#32CD32;
+}
+.game{
+  width:100px;
+  height:100px;
+  margin:1px;
+  display:inline-block;
+}
+body{
+  background-color:DimGrey;
+  text-align: center;
+}
+h1{
+  margin-left: 20px;
+  font-family: monospace;
+  font-weight: bold;
+  color: #66CDAA;
+}
